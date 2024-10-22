@@ -51,7 +51,7 @@ const Home = () => {
 							})}
 						</ul>
 				</>
-				<div className="mt-3 py-1 px-3 border rounded">
+				<div className="mt-3 py-2 px-3 border-top">
 					<span style={{fontWeight:"400", fontSize: "normal"}}>{tasksList.length} items left</span>
 				</div>
 			</div>
